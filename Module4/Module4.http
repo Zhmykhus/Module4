@@ -1,0 +1,6 @@
+@Module4_HostAddress = http://localhost:4444/
+
+GET {{Module4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
